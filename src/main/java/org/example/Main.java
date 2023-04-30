@@ -16,5 +16,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("Have a really nice day! :)");
+        System.out.println("We've changed the name of the repo on GitHub :)");
     }
 }
